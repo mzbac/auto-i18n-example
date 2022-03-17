@@ -47,7 +47,7 @@ import React from "react";
 export default App = () => {
   const aStr = "something";
   const bStr = 'something else';
-  return <div>Hellow world</div>;
+  return <div>hello world</div>;
 };
 `;
 
